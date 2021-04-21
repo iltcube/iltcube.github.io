@@ -11,8 +11,9 @@ $('.top__slider').slick({
 $('.reviews__slider').slick({
     arrows: false,
     dots: true,
-    slidesToShow: 4,
-    slidesToScroll: 1
+    autoplay: true,
+    fade: true,
+    
 });
 
 });
