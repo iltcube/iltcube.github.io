@@ -733,6 +733,16 @@ body{
     .rent__item{
         margin: 30px 0;
     }
+    
+    .benefits__list-item:nth-child(1),
+    .benefits__list-item:nth-child(2),
+    .benefits__list-item:nth-child(3),
+    .benefits__list-item:nth-child(4),
+    .benefits__list-item:nth-child(5),
+    .benefits__list-item:nth-child(6),
+    .benefits__list-item:nth-child(7){
+        margin-right: 155px;
+    }
 
     .footer__top{
         flex-direction: column;
