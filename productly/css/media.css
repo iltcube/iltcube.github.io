@@ -80,6 +80,7 @@
 
     .footer__inner{
         flex-wrap: wrap;
+        padding: 50px 0 50px;
     }
 
     .footer__form{
@@ -92,16 +93,20 @@
     .top__inner,
     .direction,
     .blog{
-        padding: 80px 0 60px;
+        padding: 50px 0 30px;
     }
 
     .tools{
-        padding-top: 80px;
+        padding-top: 50px;
     }
 
     .tools__inner{
         padding-top: 40px;
         padding-bottom: 60px;
+    }
+    
+    .direction__item{
+        margin-bottom: 50px;
     }
 }
 
